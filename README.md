@@ -9,3 +9,13 @@ To use this project, you just need to copy the RestClient directory or just the 
 The functions in the **RequestService** file use some conversions that the [Newtonsoft.Json](https://www.newtonsoft.com/json) library provides.
 
 This library can be used in either a C# backend, xamarin or windows forms application.
+
+## Technologies implemented
+
+- ASP.NET Core 2.2
+- Newtonsoft.Json
+- HttpClient
+
+## About
+
+The project was developed by Thiago Araújo and you can make any and all changes that are valuable to your business.
